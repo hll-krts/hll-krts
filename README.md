@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hll-krts
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently working with Unity
